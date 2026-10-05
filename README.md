@@ -25,7 +25,6 @@
 
 <br/>
 
-<img alt="NextRole start page — chat-driven prep on the left, a live artifact workspace on the right" src="docs/images/next-role-hero-image.png" width="100%">
 
 </div>
 
